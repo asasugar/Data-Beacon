@@ -1,2 +1,7 @@
-# Data-Beacon
-数据灯塔，像灯塔一样为用户提供数据指引。
+### uniCloud 示例项目
+
+### 仓库分支与 HBuilder 版本对应关系
+
+- main 对应 [HBuilder](https://www.dcloud.io/hbuilderx.html) 正式版
+- alpha 对应 [HBuilder](https://www.dcloud.io/hbuilderx.html) Alpha 版
+- dev 对应 [HBuilder](https://www.dcloud.io/hbuilderx.html) 内部 dev 版
