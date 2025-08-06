@@ -1,0 +1,56 @@
+# General
+.DS_Store
+.idea
+.hbuilderx
+*.log
+*.tmp
+*.swp
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# uni-app
+unpackage/
+.uni-app-loader/
+.uni/
+
+# Build
+dist/
+build/
+
+# Local env files
+.env.local
+.env.*.local
+
+# Debug files
+debug.log
+
+# Editor directories and files
+.project
+.settings/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Uni-app runtime files
+.runtime/
+
+# HBuilderX
+.hbuilderx/
+
+# uniCloud
+uniCloud-aliyun/functions/common/uni-id/config.json
+uniCloud-aliyun/database/db_init.json
+uniCloud-tcb/
+
+# Others
+.temp
+.cache
+.history
